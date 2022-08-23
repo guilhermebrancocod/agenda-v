@@ -1,0 +1,111 @@
+*{
+    background-color: rgb(15, 125, 221);
+    padding: 0px;
+}
+header .principal ul h1{
+    font-family:'DynaPuff', DynaPuff;
+    color: rgb(5, 5, 5);
+    text-transform: uppercase;
+    border-radius: 10px;
+    text-shadow: 1px 1px  rgb(255, 222, 34);
+    
+    margin-bottom: 1px;
+    margin-left: 120px;
+    max-width: 980px;
+    text-align: center;
+}
+header .principal ul p{
+    background-color: rgb(255, 222, 34);
+    color: black;
+    text-transform: uppercase;
+   
+    margin-top: 0 auto;
+    margin-left: 485px;
+    max-width: 230px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+header .notas{
+    background-color: white;
+    width: 600px;
+    height: 500px; 
+    border: 3px solid rgb(13, 14, 13);
+
+    margin-top: 150px;
+    margin-left: 250px;
+}
+.agenda-logo{
+    display: block;
+    margin: 0 auto;
+
+    position: absolute;
+    left: 485px ;
+    top: 190px;
+}
+
+.nuvem-logo{
+    display: block;
+    margin: 0 auto;
+
+    position: absolute;
+    left: 550px ;
+    top: 100px;
+}
+
+header .data{
+    font-family:'DynaPuff', DynaPuff;
+    text-transform: uppercase;
+
+    position: absolute;
+    left: 998px;
+    top: 150px;
+}
+
+.data ul h3{
+    background-color: aliceblue;
+    width: 150px;
+    max-width: 500px;
+    border-radius: 3px;
+
+    text-align: center;
+}
+.data ul h4{
+    background-color: aliceblue;
+    width: 150px;
+    max-width: 500px;
+    border-radius: 3px;
+
+    text-align: center;
+}
+.data h3{
+    background-color: aliceblue;
+    text-shadow: 1px 1px  rgb(255, 222, 34);
+    border-radius: 5px;
+}
+.data h4{
+    background-color: aliceblue;
+}
+header .horario{
+    font-family:'DynaPuff', DynaPuff;
+    text-transform: uppercase;
+
+    position: absolute;
+    left: 998px;
+    top: 500px;
+}
+
+.horario h5{
+    background-color: aliceblue;
+    text-shadow: 1px 1px  rgb(255, 222, 34);
+    border-radius: 5px;
+}
+
+.horario ul{
+    background-color: aliceblue;
+    width: 150px;
+    max-width: 500px;
+    border-radius: 3px;
+
+    text-align: center;
+}
