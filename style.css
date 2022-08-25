@@ -37,8 +37,8 @@ header .notas{
     margin-left: 250px;
 }
 
-.notas ul h2 p{
-    margin-left: 35px;
+.notas ul h2 p {
+    margin-left: 1px;
     margin-top: 60px;
     background-color: white;
     font-family:'DynaPuff', DynaPuff;
@@ -80,7 +80,7 @@ header .data{
 
     text-align: center;
 }
-.data ul h4{
+.calendario-dia h4 ul{
     background-color: aliceblue;
     width: 150px;
     max-width: 500px;
